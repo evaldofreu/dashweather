@@ -1,4 +1,4 @@
-{
+const data = {
     "cidade": "São Joaquim da Barra",
     "estado": "São Paulo",
     "dados": [
